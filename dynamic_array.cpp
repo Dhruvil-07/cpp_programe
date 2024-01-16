@@ -32,8 +32,6 @@ public :
             cout<<u[i].name<<"   "<<u[i].age<<endl;
         }
     }
-
-
 };
 
 

@@ -8,7 +8,7 @@ using namespace std;
 class Person
 {
 public :
-    
+  
     int age;
     friend ostream &operator<<(ostream &output,Person &p);
     friend istream &operator>>(istream &input ,Person &p);

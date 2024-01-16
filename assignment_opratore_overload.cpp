@@ -46,7 +46,7 @@ int main()
 
     n1.display();
 
-    n1 += n2;;
+    n1 += n2;
 
-    n1.display();;
+    n1.display();
 }
